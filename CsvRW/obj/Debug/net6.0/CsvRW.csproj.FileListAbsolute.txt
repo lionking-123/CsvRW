@@ -1,0 +1,17 @@
+E:\C#_development\CsvRW\CsvRW\bin\Debug\net6.0\CsvRW.exe
+E:\C#_development\CsvRW\CsvRW\bin\Debug\net6.0\CsvRW.dll
+E:\C#_development\CsvRW\CsvRW\bin\Debug\net6.0\CsvHelper.dll
+E:\C#_development\CsvRW\CsvRW\bin\Debug\net6.0\CsvRW.deps.json
+E:\C#_development\CsvRW\CsvRW\bin\Debug\net6.0\CsvRW.runtimeconfig.json
+E:\C#_development\CsvRW\CsvRW\bin\Debug\net6.0\CsvRW.pdb
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\CsvRW.csproj.AssemblyReference.cache
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\CsvRW.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\CsvRW.AssemblyInfoInputs.cache
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\CsvRW.AssemblyInfo.cs
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\CsvRW.csproj.CoreCompileInputs.cache
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\CsvRW.csproj.CopyComplete
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\CsvRW.dll
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\refint\CsvRW.dll
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\CsvRW.pdb
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\CsvRW.genruntimeconfig.cache
+E:\C#_development\CsvRW\CsvRW\obj\Debug\net6.0\ref\CsvRW.dll
