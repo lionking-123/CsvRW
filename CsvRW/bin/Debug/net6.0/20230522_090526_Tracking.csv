@@ -1,0 +1,3 @@
+Nom du remettant;Code transporteur;Code produit;Numéro de B.L.;Code barre (PCI);Colis vrac;Palettes Totales;Ref. unique d'expédition;URL de tracking à l'expédition;Libellé du statut (NM);Code situation;Code Justification (NM);Date statut (NM);Heure statut (NM);Remarques (NM);URL Recepissé (NM);Date heure émission EDI;Code EDI type de conditionnement;Ref. RFF;Code IATA;Récépissé;
+SEVENS;DPDWS;DPDR;RASE32UPX;%001300110234000002054337902;1,00;0,00;2836601;http://www.dpd.fr/tracer_RASE32UPX_2131724;;;;;;;;22/05/2023 09:05;0,00;10234000002054;;3611;
+SEVENS;DPDWS;DPDR;KHFE9D33L;%001318010234000002056337902;1,00;0,00;2836656;http://www.dpd.fr/tracer_KHFE9D33L_2131724;;;;;;;;22/05/2023 09:05;0,00;10234000002056;;3612;
